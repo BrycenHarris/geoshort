@@ -15,4 +15,4 @@
 
 ## Features
 
--   TODO later on has semester progresses 
+-   TODO later on as semester progresses 
